@@ -14,4 +14,5 @@
 - Room Database
 - Live Data
 - Navigation Component
+- Data Binding
 - Glide
